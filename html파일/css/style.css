@@ -56,8 +56,8 @@ h1,h2,h3,h4,h5,h6{ line-height: 1; }
 
 #login_menu li span.count{
   display: inline-block;
-  background: #ffc01a;
-  color: white;
+  background: yellow;
+  color: red;
   border-radius: 100%;
   width: 20px;
   height: 20px;
